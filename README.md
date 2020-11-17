@@ -41,7 +41,11 @@ I'm working on
 [<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
-<iframe src="https://discord.com/widget?id=759054884543660062&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+---
+
+### Private Minecraft Server Status:
+
+<img src="https://panel.pebblehost.com/status/147223" width="320" height="42"/>
 
 
 [website]: https://csutora.com
