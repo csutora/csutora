@@ -4,6 +4,10 @@ I am a 17 years old **student** learning to be a **software developer**.
 
 I'm interested in hardware, software, physics, drawing, and gaming, among lots of others. I'm keen on **collaborating** with others, and I like to take part in developing solutions for real world problems. I also believe that **privacy** is a fundamental **human right**, thus I plan to involve myself in many software projects centered around data privacy.
 
+![Profile views](https://gpvc.arturio.dev/csumpasd)  <img src="https://img.shields.io/github/followers/csumpasd?label=Follows" style=" float:left, margin-right:10px" />
+
+
+
 ### Software I use
 
 I'm currently using \
@@ -26,7 +30,7 @@ I'm working on
 * a boot animation for my phone
 * a game with text-based graphics
 
-![Profile views](https://gpvc.arturio.dev/csumpasd)  <img src="https://img.shields.io/github/followers/csumpasd?label=Follows" style=" float:left, margin-right:10px" />
+
 
 ### Social
 
