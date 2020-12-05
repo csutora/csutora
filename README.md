@@ -10,9 +10,9 @@ I'm interested in hardware, software, physics, drawing, and gaming, among lots o
 
 ---
 
-### Software I use
+### Stuff I use
 
-I'm currently using \
+I'm currently working with \
 <img src="https://badgen.net/badge/icon/Arch%20Linux?icon=https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg&label"/> 
 <img src="https://badgen.net/badge/icon/VS%20Code?icon=visualstudio&label&color=207cb6" /> 
 <img src="https://badgen.net/badge/icon/Firefox?icon=firefox&label&color=ff780a" />
