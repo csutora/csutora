@@ -12,17 +12,12 @@ I'm interested in hardware, software, physics, drawing, and gaming, among lots o
 
 ### Stuff I use
 
-I'm currently working with \
-<img src="https://badgen.net/badge/icon/Arch%20Linux?icon=https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg&label"/> 
-<img src="https://badgen.net/badge/icon/VS%20Code?icon=visualstudio&label&color=207cb6" /> 
-<img src="https://badgen.net/badge/icon/Firefox?icon=firefox&label&color=ff780a" />
-
 I'm learning \
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 
-Other stuff I've used before \
+Stuff I've used before \
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
@@ -33,7 +28,7 @@ Other stuff I've used before \
 I'm working on
 * a boot animation for my phone
 * a game with text-based graphics
-
+* participating in [advent of code][aoc]
 ---
 
 ### Social
@@ -56,3 +51,4 @@ I'm working on
 [mastodon]: https://fosstodon.org/@csumpasd
 [youtube]: https://www.youtube.com/channel/UCXidLlMUGFIILvFaUFLNi1Q
 [twitch]: https://twitch.tv/csumpasd
+[aoc]: https://adventofcode.com
