@@ -38,13 +38,6 @@ I'm working on
 [<img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch] 
 
-<br/>
-
----
-
-### Private Minecraft Server Status:
-
-<img src="https://panel.pebblehost.com/status/147223" width="320" height="42"/>
 
 
 [website]: https://csutora.com
