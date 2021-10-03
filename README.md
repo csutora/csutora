@@ -1,3 +1,4 @@
+![shadowssmall](https://user-images.githubusercontent.com/45290377/135773482-4550956e-aca9-41da-af68-564b888c2861.png)
 ### Hi there! 
 
 ---
@@ -13,36 +14,35 @@ I'm interested in computers, physics, art, music, building and tinkering, and ma
 ### Projects
 
 Some things I'm working on:
-* a BME Map app
-* sleeping better
-* learning fabric-based modding
-* figuring out a better way to list my projects, maybe a trello type of thing? (hit me up if you know a good open source project tracker)
-* writing a well organised list of all the useful programs, things and tweaks I used to turn my online life and devices private
+* A BME Map app
+* Sleeping better
+* Learning fabric-based modding
+* Figuring out a better way to list my projects, maybe a trello type of thing? (hit me up if you know a good open source project tracker)
+* Writing a well organised list of all the useful programs, things and tweaks I used to turn my online life and devices private
 
 Some of my previous works:
-* setting up an apache2 & nginx server and hosting my website
-* javascript-based collision simulation (planning a rewrite which I'll upload here)
-* by far the most difficult one of them all, installing Arch Linux (jk, i can do it from memory)
+* Setting up an apache2 & nginx server and hosting my website
+* Javascript-based collision simulation (planning a rewrite which I'll upload here)
+* By far the most difficult one of them all, installing Arch Linux (jk, i can do it from memory)
 * ... and many others
 ---
 
 ### Knowledge
 
 Some languages I've coded in before:
-* c
-* java
-* python
-* pascal
-* javascript, html, css
-* shell (bash)
+* C
+* Java
+* Python
+* Pascal
+* JS, HTML, CSS
+* Shell (bash)
 
-Some programs I'm familiar with:
+Some of the programs I'm familiar with:
 * IntelliJ IDEA, CLion, Pycharm, Android Studio
 * VS Code, Atom
 * Lazarus
 * Unity, Blender
-* Krita, Gimp, Photoshop, Figma
-* Linux terminal
+* Krita, Photoshop, Figma, GIMP
 ---
 
 ### Contact
