@@ -1,4 +1,4 @@
-![shadowssmallround](https://user-images.githubusercontent.com/45290377/135773880-44908178-310a-449a-8333-1fdefc34fcd2.png)
+![shadows-small-round-nord](https://user-images.githubusercontent.com/45290377/135819636-d5a92c37-6d04-470d-993f-3de0fdc53b0e.png)
 ### Hi there! 
 
 ---
