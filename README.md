@@ -21,7 +21,7 @@ Some things I'm working on:
 * Writing a well organised list of all the useful programs, things and tweaks I used to turn my online life and devices private
 
 Some of my previous works:
-* Setting up an apache2 & nginx server and hosting my website
+* Selfhosting many things for my family, friends, and also some are public at csum.io
 * Javascript-based collision simulation (planning a rewrite which I'll upload here)
 * By far the most difficult one of them all, installing Arch Linux (jk, i can do it from memory)
 * ... and many others
@@ -30,18 +30,18 @@ Some of my previous works:
 ### Knowledge
 
 Some languages I've coded in before:
-* C
+* C, C++
 * Java
 * Python
 * Pascal
 * JS, HTML, CSS
-* Shell (bash)
+* Shell
 
-Some of the programs I'm familiar with:
+Some of the programs I use / am familiar with:
 * IntelliJ IDEA, CLion, Pycharm, Android Studio
 * VS Code, Atom
-* Lazarus
-* Unity, Blender
+* Unity, Blender, BlockBench
+* DaVinci Resolve
 * Krita, Photoshop, Figma, GIMP
 ---
 
