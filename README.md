@@ -3,7 +3,7 @@
 
 ---
 
-I’m Mabel, a Computer Science Engineering student at the Budapest University of Technology.
+I’m Marton, a Computer Science Engineering student at the Budapest University of Technology.
 
 I'm interested in computers, physics, art, music, building and tinkering, and many others.
 
