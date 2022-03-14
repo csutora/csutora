@@ -47,4 +47,4 @@ Some of the programs I use / am familiar with:
 
 ### Contact
 
-Most of my contact options are available on my [website](https://csutora.com)
+Most of my contact options are available on my [website](https://csutora.com) (down for a while)
