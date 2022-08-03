@@ -1,12 +1,10 @@
-![banner-scaledup](https://user-images.githubusercontent.com/45290377/170793259-bfc0cac6-79ea-4a00-903f-ef142cc2700e.png)
-
 ### Hi there! 
 
 ---
 
 I’m Marton, a Computer Science Engineering student at the Budapest University of Technology.
 
-I'm interested in computers, physics, art, music, building and tinkering, and many others.
+I'm interested in computers, physics, art, building and tinkering, and many others.
 
 ![Profile views](https://gpvc.arturio.dev/csumpasd)  <img src="https://img.shields.io/github/followers/csumpasd?label=Follows" style=" float:left, margin-right:10px" /> ![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F61585acc970bc55994ad0071)
 
@@ -15,37 +13,23 @@ I'm interested in computers, physics, art, music, building and tinkering, and ma
 ### Projects
 
 Some things I'm working on:
-* A BME Map app
-* Sleeping better
-* Learning fabric-based modding
-* Figuring out a better way to list my projects, maybe a trello type of thing? (hit me up if you know a good open source project tracker)
-* Writing a well organised list of all the useful programs, things and tweaks I used to turn my online life and devices private
+* Learning Swift and SwiftUI
+* Learning to write Minecraft mods
+* Amusing myself with complex ios shortcut automations
 
-Some of my previous works:
-* Selfhosting many things for my family, friends, and also some are public at csum.io
-* Javascript-based collision simulation (planning a rewrite which I'll upload here)
-* By far the most difficult one of them all, installing Arch Linux (jk, i can do it from memory)
-* ... and many others
 ---
 
 ### Knowledge
 
-Some languages I've coded in before:
+Languages I've coded in before:
 * C, C++
 * Java
-* Python
-* Pascal
 * JS, HTML, CSS
-* Shell
+* Lua, Python, Shell
+* Pascal
 
-Some of the programs I use / am familiar with:
-* IntelliJ IDEA, CLion, Pycharm, Android Studio
-* VS Code, Atom
-* Unity, Blender, BlockBench
-* DaVinci Resolve
-* Krita, Photoshop, Figma, GIMP
 ---
 
 ### Contact
 
-Most of my contact options are available on my [website](https://csutora.com) (down for a while)
+Common contact options are available on my [carrd page](https://marton.carrd.co)
