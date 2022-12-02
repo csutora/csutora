@@ -13,23 +13,20 @@ Have a nice day!
 
 ---
 
-### Projects
+### Stuff I'm working on
 
-Some things I'm working on:
 * Learning Swift and SwiftUI
-* Learning to write Minecraft mods
-* Amusing myself with complex ios shortcut automations
+* Participating in 2022's Advent Of Code
+* Studying AI Safety and Alignment through EA Hungary
 
 ---
 
-### Knowledge
+### Some languages I've coded in before
 
-Languages I've coded in before:
 * C, C++
 * Java
-* JS, HTML, CSS
-* Lua, Python, Shell
-* Pascal
+* Python
+* Javascript
 
 ---
 
