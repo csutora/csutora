@@ -9,14 +9,13 @@ Concerned by issues such as Global Warming, Malicious AI, and Biosecurity, I'm w
 Below I've listed my current software-related projects, and past knowledge, and at the bottom you can find some of my contact options. 
 Have a nice day!
 
-![Profile views](https://gpvc.arturio.dev/csumpasd)  <img src="https://img.shields.io/github/followers/csumpasd?label=Follows" style=" float:left, margin-right:10px" /> ![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F61585acc970bc55994ad0071)
+![Profile views](https://gpvc.arturio.dev/csumpasd)  <img src="https://img.shields.io/github/followers/csumpasd?label=Follows" style=" float:left, margin-right:10px" />
 
 ---
 
 ### Stuff I'm working on
 
-* Learning Swift and SwiftUI
-* Participating in 2022's Advent Of Code
+* Participating in Hack3
 * Studying AI Safety and Alignment through EA Hungary
 
 ---
@@ -27,6 +26,7 @@ Have a nice day!
 * Java
 * Python
 * Javascript
+* Swift, SwiftUI
 
 ---
 
