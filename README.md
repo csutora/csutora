@@ -5,8 +5,8 @@
 I'm Marton,
 
 currently studying CS at BME, but I'm also interested in fields such as Bioengineering and Nuclear Physics, and you can find me in the [Effective Altruism](https://www.effectivealtruism.org/) community as well.
-Concerned by issues such as Global Warming, Malicious AI, and Biosecurity, I'm working towards maximising my impact in one of these cause areas.
-Below I've listed my current software-related projects, and past knowledge, and at the bottom you can find some of my contact options. 
+Concerned by AGI alignment and the general disregard of safety in the field by big corporations, I hope to have an impact in this area.
+Below I've listed my current software-related projects, knowledge, and at the bottom you can find some of my contact options. 
 Have a nice day!
 
 ![Profile views](https://gpvc.arturio.dev/csumpasd)  <img src="https://img.shields.io/github/followers/csumpasd?label=Follows" style=" float:left, margin-right:10px" />
@@ -15,23 +15,22 @@ Have a nice day!
 
 ### Stuff I'm working on
 
-* Participating in Hack3
+* Working on cleaning up my digital workflow 
+* Doing the Data Science course at [AIT](https://ait-budapest.com/)
 * Studying AI Safety and Alignment through EA Hungary
 
 ---
 
-### Some languages I've coded in before
+### Some of the languages and frameworks I can use
 
+* Swift, SwiftUI
 * C, C++
 * Java
 * Python
-* Javascript
-* Swift, SwiftUI
+* JS, Vue, HTML, CSS
 
 ---
 
 ### Contact
 
-If you need a young engineer to work with, or are just compelled to reach out, I'm available through these links below:
-
-[email](mailto://marton@csutora.com)
+If you need a young engineer to work with, or are just compelled to reach out, feel free to send me an [email](mailto://marton@csutora.com)
