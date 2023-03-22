@@ -5,7 +5,7 @@
 I'm Marton,
 
 currently studying CS at BME, but I'm also interested in fields such as Bioengineering and Nuclear Physics, and you can find me in the [Effective Altruism](https://www.effectivealtruism.org/) community as well.
-Concerned by AGI alignment and the general disregard of safety in the field by big corporations, I hope to have an impact in this area.
+Concerned by AGI alignment and the general disregard of safety in the field by corporations, I hope to have an impact in this area.
 Below I've listed my current software-related projects, knowledge, and at the bottom you can find some of my contact options. 
 Have a nice day!
 
@@ -17,7 +17,7 @@ Have a nice day!
 
 * Working on cleaning up my digital workflow 
 * Doing the Data Science course at [AIT](https://ait-budapest.com/)
-* Studying AI Safety and Alignment through EA Hungary
+* Extensively customising my nvim, why do I do this to myself
 
 ---
 
@@ -25,7 +25,7 @@ Have a nice day!
 
 * Swift, SwiftUI
 * C, C++
-* Java
+* Java, C#
 * Python
 * JS, Vue, HTML, CSS
 
