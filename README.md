@@ -4,10 +4,11 @@
 
 I'm Marton,
 
-currently studying CS at BME, but I'm also interested in fields such as Bioengineering and Nuclear Physics, and you can find me in the [Effective Altruism](https://www.effectivealtruism.org/) community as well.
-Concerned by AGI alignment and the general disregard of safety in the field by corporations, I hope to have an impact in this area.
-Below I've listed my current software-related projects, knowledge, and at the bottom you can find some of my contact options. 
-Have a nice day!
+part time student of computer science at BME, and part time science enthusiast. <br>
+I find bionics, nuclear fusion, electronics, artificial intelligence, and pretty much almost any other system with complex interactions fascinating. <br>
+In my free time when I'm not researching some random topic, I also enjoy coding, doing UI and UX design, and many others. 
+
+This github page is where you can find most of the code I write. I think it effectively showcases the progression of my skills over time.
 
 ![Profile views](https://gpvc.arturio.dev/csumpasd)  <img src="https://img.shields.io/github/followers/csumpasd?label=Follows" style=" float:left, margin-right:10px" />
 
@@ -16,21 +17,24 @@ Have a nice day!
 ### Stuff I'm working on
 
 * Working on cleaning up my digital workflow 
-* Doing the Data Science course at [AIT](https://ait-budapest.com/)
+* "Perfect Pop" - an app that helps you make perfect popcorn every time.
 * Extensively customising my nvim, why do I do this to myself
 
 ---
 
-### Some of the languages and frameworks I can use
+### Some of the languages and frameworks I'm proficient in
 
-* Swift, SwiftUI
+* Python
 * C, C++
 * Java, C#
-* Python
+* Swift, SwiftUI
 * JS, Vue, HTML, CSS
 
 ---
 
 ### Contact
 
-If you need a young engineer to work with, or are just compelled to reach out, feel free to send me an [email](mailto://marton@csutora.com)
+If you need a young engineer to work with, or are just compelled to reach out, feel free to send me an [email](mailto://marton@csutora.com) <br>
+If you're interested in my other hobbies, here's my [website](https://csutora.com)
+
+Have a nice day!
