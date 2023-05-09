@@ -5,7 +5,7 @@
 I'm Marton,
 
 part time student of computer science at BME, and part time science enthusiast. <br>
-I find bionics, nuclear fusion, electronics, artificial intelligence, and pretty much almost any other system with complex interactions fascinating. <br>
+I find bionics, nuclear fusion, electronics, artificial intelligence, and pretty much any other system with complex interactions fascinating. <br>
 In my free time when I'm not researching some random topic, I also enjoy coding, doing UI and UX design, and many others. 
 
 This github page is where you can find most of the code I write. I think it effectively showcases the progression of my skills over time.
