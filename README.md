@@ -34,7 +34,7 @@ This github page is where you can find most of the code I write. I think it effe
 
 ### Contact
 
-If you need a young engineer to work with, or are just compelled to reach out, feel free to send me an [email](mailto://marton@csutora.com) <br>
-If you're interested in my other hobbies, here's my [website](https://csutora.com)
+If you need an engineer on your team, send me an [email](mailto://marton@csutora.com), let’s work together <br>
+You can find more about me on my [website](https://csutora.com)
 
 Have a nice day!
