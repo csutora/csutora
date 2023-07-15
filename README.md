@@ -10,15 +10,13 @@ In my free time when I'm not researching some random topic, I also enjoy coding,
 
 This github page is where you can find most of the code I write. I think it effectively showcases the progression of my skills over time.
 
-![Profile views](https://gpvc.arturio.dev/csumpasd)  <img src="https://img.shields.io/github/followers/csumpasd?label=Follows" style=" float:left, margin-right:10px" />
-
 ---
 
 ### Stuff I'm working on
 
-* Working on cleaning up my digital workflow 
-* "Perfect Pop" - an app that helps you make perfect popcorn every time.
-* Extensively customising my nvim, why do I do this to myself
+* Moving as much of my workflow to the terminal as possible
+* Modding minecraft
+* Learning data science on Kaggle
 
 ---
 
@@ -29,6 +27,7 @@ This github page is where you can find most of the code I write. I think it effe
 * Java, C#
 * Swift, SwiftUI
 * JS, Vue, HTML, CSS
+* Lua
 
 ---
 
