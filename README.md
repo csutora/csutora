@@ -14,8 +14,8 @@ This github page is where you can find most of the code I write. I think it effe
 
 ### Stuff I'm working on
 
-* Moving as much of my workflow to the terminal as possible
-* Modding minecraft
+* Learning Rust
+* Modding Minecraft
 * Learning data science on Kaggle
 
 ---
