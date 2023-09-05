@@ -1,39 +1,32 @@
-### Hi there! 
+### hi there! 
 
 ---
 
-I'm Marton,
+I'm marton,
 
-part time student of computer science at BME, and part time science enthusiast. <br>
-I find bionics, nuclear fusion, electronics, artificial intelligence, and pretty much any other system with complex interactions fascinating. <br>
-In my free time when I'm not researching some random topic, I also enjoy coding, doing UI and UX design, and many others. 
+part time student of computer science at BME, and part time science and data enthusiast. <br>
+I seek out and strive to understand complex systems, including AI, neurobiology, quantum physics, and bionics. <br>
+When not studying for university, I'm most likely either learning about the above topics, working on my own projects, or lifting weights. 
 
 This github page is where you can find most of the code I write. I think it effectively showcases the progression of my skills over time.
 
 ---
 
-### Stuff I'm working on
+### skills:
 
-* Learning Rust
-* Modding Minecraft
-* Learning data science on Kaggle
-
----
-
-### Some of the languages and frameworks I'm proficient in
-
-* Python
+* Rust
+* Python, Data science
+* Swift, SwiftUI
+* DevOps, *nix, Docker
 * C, C++
 * Java, C#
-* Swift, SwiftUI
-* JS, Vue, HTML, CSS
-* Lua
+* HTML, CSS, JS, Vue
 
 ---
 
-### Contact
+### contact:
 
-If you need an engineer on your team, send me an [email](mailto://marton@csutora.com), let’s work together <br>
-You can find more about me on my [bento](https://bento.me/marton)
+If you need an engineer on your team, send me an [email](mailto:marton@csutora.com), let’s work together <br>
+You can find more about me on my [website](https://csutora.com)
 
 Have a nice day!
