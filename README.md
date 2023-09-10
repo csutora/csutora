@@ -8,7 +8,7 @@ part time student of computer science at BME, and part time science and data ent
 I seek out and strive to understand complex systems, including AI, neurobiology, quantum physics, and bionics. <br>
 When not studying for university, I'm most likely either learning about the above topics, working on my own projects, or lifting weights. 
 
-This github page is where you can find most of the code I write. I think it effectively showcases the progression of my skills over time.
+This github page is where you can find some of the code I write. I think it effectively showcases the progression of my skills over time.
 
 ---
 
