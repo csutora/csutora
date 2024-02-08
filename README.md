@@ -4,7 +4,7 @@
 
 I'm marton,
 
-part time student of computer science at BME, and part time science and data enthusiast. <br>
+part time student of computer science at [BME](https://www.bme.hu/?language=en), and part time science and data enthusiast. <br>
 I seek out and strive to understand complex systems, including AI, neurobiology, quantum physics, and bionics. <br>
 When not studying for university, I'm most likely either learning about the above topics, working on my own projects, or lifting weights. 
 
@@ -14,13 +14,15 @@ This github page is where you can find some of the code I write. I think it effe
 
 ### skills:
 
-* Rust
-* Python, Data science
-* Swift, SwiftUI
-* DevOps, *nix, Docker
+* Python, pytorch, scikit-learn, keras, numpy, pandas
 * C, C++
+* Experience in *nix server administration, computer networks(incl. firewalls, vpns, reverse proxies, dns, etc), and the *nix shell that I've picked up from >8 years of self-hosting
+* Docker, Ansible, general cloud experience(mostly Linode)
+* SysML, and designing fault-tolerant systems
+* PCB design, soldering, basics of electrical engineering
+* Rust (writing my first large project right now)
+* Swift, SwiftUI
 * Java, C#
-* HTML, CSS, JS, Vue
 
 ---
 
