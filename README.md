@@ -14,13 +14,13 @@ This github page is where you can find some of the code I write. I think it effe
 
 ### skills:
 
-* Python, pytorch, scikit-learn, keras, numpy, pandas
-* C, C++
+* Python, Data Science, Machine Learning
 * Experience in *nix server administration, computer networks(incl. firewalls, vpns, reverse proxies, dns, etc), and the *nix shell that I've picked up from >8 years of self-hosting
 * Docker, Ansible, general cloud experience(mostly Linode)
-* SysML, and designing fault-tolerant systems
-* PCB design, soldering, basics of electrical engineering
-* Rust (writing my first large project right now)
+* SysML, fault-tolerant systems design
+* PCB design and manufacturing
+* C, C++
+* Rust
 * Swift, SwiftUI
 * Java, C#
 
@@ -30,5 +30,6 @@ This github page is where you can find some of the code I write. I think it effe
 
 If you need an engineer on your team, send me an [email](mailto:marton@csutora.com), let’s work together <br>
 You can find more about me on my [website](https://csutora.com)
+Also find me on [LinkedIn](https://www.linkedin.com/in/marton-csutora-681b051ba/)
 
 Have a nice day!
