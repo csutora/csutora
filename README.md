@@ -30,6 +30,6 @@ This github page is where you can find some of the code I write. I think it effe
 
 If you need an engineer on your team, send me an [email](mailto:marton@csutora.com), let’s work together <br>
 You can find more about me on my [website](https://csutora.com) <br>
-Also find me on [LinkedIn](https://www.linkedin.com/in/marton-csutora)
+Also find me on [LinkedIn](https://www.linkedin.com/in/m-csutora)
 
 Have a nice day!
