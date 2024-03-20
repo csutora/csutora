@@ -14,7 +14,7 @@ This github page is where you can find some of the code I write. I think it effe
 
 ### skills:
 
-* Python, Data Science, Machine Learning
+* Python and libraries (pytorch, numpy, pandas, matplotlib, etc)
 * Experience in *nix server administration, computer networks(incl. firewalls, vpns, reverse proxies, dns, etc), and the *nix shell that I've picked up from >8 years of self-hosting
 * Docker, Ansible, general cloud experience(mostly Linode)
 * SysML, fault-tolerant systems design
