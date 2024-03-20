@@ -22,7 +22,7 @@ This github page is where you can find some of the code I write. I think it effe
 * C, C++
 * Rust
 * Swift, SwiftUI
-* Java, C#
+* Java
 
 ---
 
