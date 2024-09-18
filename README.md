@@ -1,35 +1,25 @@
-### hi there! 
+hi, i'm marton,
 
----
+student of computer engineering and reliable systems design at [Budapest University of Technology](https://www.bme.hu/?language=en), student demonstrator at the university in artificial intelligence and operating systems, undergraduate researcher at [Wigner Computational Systems Neuroscience Laboratory](http://golab.wigner.mta.hu).
 
-I'm marton,
+### currently:
+* crafting on my thesis on using an lstm-based architecture to predict patient health risks in the intensive care unit
+* doing research using generative modeling in the context of task inference
+* learning about the dynamics and structure of complex networks at [Aquincum Institute of Technology](https://ait-budapest.com).
 
-part time student of computer science at [BME](https://www.bme.hu/?language=en), and part time science and data enthusiast. <br>
-I seek out and strive to understand complex systems, including AI, neurobiology, quantum physics, and bionics. <br>
-When not studying for university, I'm most likely either learning about the above topics, working on my own projects, or lifting weights. 
+### some skills:
 
-This github page is where you can find some of the code I write. I think it effectively showcases the progression of my skills over time.
-
----
-
-### skills:
-
-* Python and libraries (pytorch, numpy, pandas, matplotlib, etc)
-* Experience in *nix server administration, computer networks(incl. firewalls, vpns, reverse proxies, dns, etc), and the *nix shell that I've picked up from >8 years of self-hosting
-* Docker, Ansible, general cloud experience(mostly Linode)
-* SysML, fault-tolerant systems design
-* PCB design and manufacturing
-* C, C++
-* Rust
-* Swift, SwiftUI
-* Java
-
----
+* python and packages (pytorch, numpy, pandas, dask, etc)
+* experience in servers, networks, cloud, containerization systems (eg docker), shells, and other related topics from the >8 years that i've been self-hosting stuff
+* rust
+* c, c++
+* swift, swiftui
+* java, kotlin
+* matlab
 
 ### contact:
 
-If you need an engineer on your team, send me an [email](mailto:marton@csutora.com), let’s work together <br>
-You can find more about me on my [website](https://csutora.com) <br>
-Also find me on [LinkedIn](https://www.linkedin.com/in/m-csutora)
+if you need an engineer on your team who can probably do whatever you throw at them reasonably well, send me an [email](mailto:marton@csutora.com) <br>
+also, here's my [website](https://csutora.com) and [linkedin](https://linkedin.com/in/martoncsutora) if you want to know more.
 
-Have a nice day!
+have a good one!
