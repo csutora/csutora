@@ -1,4 +1,4 @@
-hi, i'm marton,
+hey, i'm marton,
 
 student of computer engineering and reliable systems design at [Budapest University of Technology](https://www.bme.hu/?language=en), student demonstrator at the university in artificial intelligence and operating systems, undergraduate researcher at [Wigner Computational Systems Neuroscience Laboratory](http://golab.wigner.mta.hu).
 
