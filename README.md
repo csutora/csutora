@@ -3,7 +3,7 @@ hey, i'm marton,
 student of computer engineering and reliable systems design at [Budapest University of Technology](https://www.bme.hu/?language=en), student demonstrator at the university in artificial intelligence and operating systems, undergraduate researcher at [Wigner Computational Systems Neuroscience Laboratory](http://golab.wigner.mta.hu).
 
 ### currently:
-* crafting my thesis on using an xlstm to predict patient health risks in the intensive care unit
+* participating in advent of code 2024 (doing it in rust!)
 * doing research using generative modeling in the context of task inference in the brain
 * learning about the dynamics and structure of complex networks at [Aquincum Institute of Technology](https://ait-budapest.com).
 
