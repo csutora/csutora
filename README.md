@@ -19,7 +19,10 @@ student of computer engineering and reliable systems design at [Budapest Univers
 
 ### contact:
 
-if you need an engineer on your team who can probably do whatever you throw at them reasonably well, send me an email at marton <at\> <my username\> <dot\> com <br>
+if you need an engineer on your team who can probably do whatever you throw at them reasonably well, send me an email at 
+```
+marton <at> <my username> <dot> com
+```
 also, here's my [website](https://csutora.com) if you want to know more.
 
 have a good one!
